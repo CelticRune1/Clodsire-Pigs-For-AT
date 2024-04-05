@@ -1,0 +1,14 @@
+{
+  "ItemName": "Pig",
+  "Type": "Character",
+  "TextureWidth": 128,
+  "TextureHeight": 160,
+  "ManualVariations": [
+	{
+      "Id": 0,
+      "ChanceWeight": 0.1,
+	  "Name": "Clodsire",
+	  "Keywords": [ "Clodsire" ]
+    }
+	]
+}

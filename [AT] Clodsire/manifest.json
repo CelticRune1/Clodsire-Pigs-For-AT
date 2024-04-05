@@ -1,0 +1,12 @@
+{
+   "Name": "Clodsire Pigs for AT",
+   "Author": "Altarios2",
+   "Version": "1.0.1",
+   "Description": "It's ya boy",
+   "UniqueID": "Anth.Pigs.AT",
+   "UpdateKeys": [ "21797" ],
+   "MinimumApiVersion": "2.5",
+   "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures"
+  }
+}
